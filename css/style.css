@@ -1,0 +1,14 @@
+* {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    background-color: lightblue;
+}
+.nav {
+    display: flex;
+    float: right;
+    width: 55%;
+    justify-content: space-evenly;
+}
+.navli {
+    list-style-type: none;
+    font-size: larger;
+}
