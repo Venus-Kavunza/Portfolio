@@ -12,3 +12,10 @@
     list-style-type: none;
     font-size: larger;
 }
+.image {
+    padding-top: 8%;
+}
+.name {
+    padding-left: 730px;
+    margin-top: -280px;
+}
