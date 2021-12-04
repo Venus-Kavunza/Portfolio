@@ -20,9 +20,17 @@
     margin-top: -280px;
 }
 .aboutme {
-    padding-top: 10%;
+    padding-top: 8%;
 }
 .haboutme {
     text-align: center;
     font-size: 50px;
+}
+.paboutme {
+    padding-left: 830px;
+    margin-top :-280px ;
+    font-weight: bolder;
+}
+.workexperience {
+    padding-top: 15%;
 }
