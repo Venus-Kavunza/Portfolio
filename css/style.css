@@ -59,4 +59,21 @@
 .lprogramming {
     font-size: 20px;
 }
-
+.hmyskills {
+    text-align: center
+}
+.skills {
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    float: left;
+    margin-left: 300px;
+}
+.hobbies {
+   float: right;
+   padding: 30px;
+   margin-right: 300px;
+   border: 2px solid white;
+   border-radius: 20px;
+   height: fit-content;
+}
